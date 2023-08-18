@@ -222,7 +222,7 @@
 .widgets-placeholder {
 }
 .widgets-placeholder, .widgets-placeholder-column, .widgets-placeholder-gallery {
-	background: url(vc/pattern.gif);
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/pattern.gif);
     /*
 	display: inline;
 	float: left;
@@ -274,7 +274,7 @@ div.wpb_ui-state-active .wpb_ui-state-active {
 }
 
 #wpb_visual_composer .navbar .brand {
-	background: url(vc/visual_composer.png) no-repeat left 25px;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/visual_composer.png) no-repeat left 25px;
 	width: 16px;
 	height: 25px;
 	margin-left: 0;
@@ -287,19 +287,19 @@ div.wpb_ui-state-active .wpb_ui-state-active {
 	}
 
 /*#wpb_visual_composer-elements .wpb_popular_layouts {
-	background: url(vc/layout.png) no-repeat left 11px;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/layout.png) no-repeat left 11px;
 	padding-left: 25px;
 	margin-right: 10px;
 }
 #wpb_visual_composer-elements .wpb_content_elements {
-	background: url(vc/brick.png) no-repeat left 11px;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/brick.png) no-repeat left 11px;
 	padding-left: 25px;
 }*/
 #wpb_visual_composer-elements .wpb_templates i.icon {
-	background: url(vc/templates12.png) no-repeat center center;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/templates12.png) no-repeat center center;
 }
 .wpb_convert i.icon {
-	background: url(vc/convert.png) no-repeat center center;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/convert.png) no-repeat center center;
     position: relative;
     top: -2px;
     margin-left: 0;
@@ -458,10 +458,10 @@ div.controls a:hover {
 }
 
 .column_decrease {
-	background: url(vc/left.png) no-repeat center center;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/left.png) no-repeat center center;
 }
 .column_increase {
-	background: url(vc/right.png) no-repeat center center;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/right.png) no-repeat center center;
 }
 
 .controls_right {
@@ -502,22 +502,22 @@ div.controls a:hover {
     top: 2px;
 }
 .column_delete {
-	background: url(vc/remove.png) no-repeat center center;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/remove.png) no-repeat center center;
 	margin-left: 3px;
 	margin-right: 3px;
 }
 
 .column_clone {
-	background: url(vc/clone.png) no-repeat center center;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/clone.png) no-repeat center center;
 }
 
 .sortable_1st_level .column_popup { display: none; }
 .sortable_1st_level .wpb_sortable .column_popup { display: inline-block; }
 .column_popup {
-	background: url(vc/pop.png) no-repeat center center;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/pop.png) no-repeat center center;
 }
 .column_add {
-    background: url(vc/add.png) no-repeat center center;
+    background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/add.png) no-repeat center center;
     display: none;
 }
 .column_add,
@@ -527,15 +527,15 @@ div.controls a:hover {
 	margin-left: 3px;
 }
 .column_edit {
-	background: url(vc/edit.png) no-repeat center center;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/edit.png) no-repeat center center;
 }
 
 .wpb_vc_column > .controls .column_add {
     display: inline-block;
-    background-image: url(vc/add_grey.png);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/add_grey.png);
 }
 .wpb_vc_column > .controls .column_edit {
-    background-image: url(vc/edit_grey.png);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/edit_grey.png);
 }
 /* Controls top right
 ---------------------------------------------------------- */
@@ -555,13 +555,13 @@ div.controls a:hover {
   height: 60px;
   min-height: 60px;
   background-position: 15px 10px;
-  background-image: url(vc/elements_icons/default.png)
+  background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/default.png)
 }
 
 /* Twitter widget
 ---------------------------------------------------------- */
 .wpb_vc_twitter_widget .wpb_element_wrapper {
-	background-image: url(vc/elements_icons/tweets.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/tweets.png);
 	background-repeat: no-repeat;
 
 	height: 70px;
@@ -570,7 +570,7 @@ div.controls a:hover {
 /* Flickr
 ---------------------------------------------------------- */
 .wpb_vc_flickr .wpb_element_wrapper {
-	background-image: url(vc/elements_icons/flickr.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/flickr.png);
 	background-repeat: no-repeat;
 
 	height: 70px;
@@ -682,7 +682,7 @@ option.alert-block {
 	padding-top: 0;
 	height: 22px;
 
-	background-image: url(vc/elements_icons/facebook.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/facebook.png);
 	background-repeat: no-repeat;
 }
 
@@ -692,7 +692,7 @@ option.alert-block {
 	padding-top: 0;
 	height: 22px;
 
-	background-image: url(vc/elements_icons/twitter.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/twitter.png);
 	background-repeat: no-repeat;
 }
 
@@ -702,7 +702,7 @@ option.alert-block {
 	padding-top: 0;
 	height: 22px;
 
-	background-image: url(vc/elements_icons/google_plus.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/google_plus.png);
 	background-repeat: no-repeat;
 }
 
@@ -712,14 +712,14 @@ option.alert-block {
 	padding-top: 0;
 	height: 22px;
 
-	background-image: url(vc/elements_icons/pinterest.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/pinterest.png);
 	background-repeat: no-repeat;
 }
 
 /* Call to action block
 ---------------------------------------------------------- */
 .wpb_vc_column .wpb_content_element.wpb_vc_cta_button > .wpb_element_wrapper {
-	background-image: url(vc/elements_icons/cta_align_right.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/cta_align_right.png);
 	/*background-position: center right;
 	background-repeat: no-repeat;
 	padding-left: 10px;
@@ -732,7 +732,7 @@ option.alert-block {
 
 .wpb_vc_column .wpb_content_element.wpb_vc_cta_button > .cta_align_left.wpb_element_wrapper {
 	/*background-position: center left;*/
-	background-image: url(vc/elements_icons/cta_align_left.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/cta_align_left.png);
 }
 	/*#visual_composer_content .cta_align_left h2 {
 		margin: 10px 20px 20px 180px;
@@ -741,7 +741,7 @@ option.alert-block {
 .wpb_vc_column .wpb_content_element.wpb_vc_cta_button > .cta_align_bottom.wpb_element_wrapper {
 	/*background-position: center bottom;
 	padding-bottom: 60px;*/
-	background-image: url(vc/elements_icons/cta_align_bottom.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/cta_align_bottom.png);
 }
 	/*#visual_composer_content .cta_align_bottom h2 {
 		margin: 15px 20px;
@@ -751,7 +751,7 @@ option.alert-block {
 /* Gallery
 ---------------------------------------------------------- */
 .wpb_vc_gallery .wpb_element_wrapper {
-	background-image: url(vc/elements_icons/gallery.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/gallery.png);
 	background-repeat: no-repeat;
 	height: 70px;
 }
@@ -759,7 +759,7 @@ option.alert-block {
 /* Teaser grid
 ---------------------------------------------------------- */
 .wpb_vc_teaser_grid .wpb_element_wrapper {
-	background-image: url(vc/elements_icons/teaser_grid.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/teaser_grid.png);
 	background-repeat: no-repeat;
 	height: 70px;
 }
@@ -767,7 +767,7 @@ option.alert-block {
 /* Posts slider
 ---------------------------------------------------------- */
 .wpb_vc_posts_slider .wpb_element_wrapper {
-	background-image: url(vc/elements_icons/slideshow.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/slideshow.png);
 	background-repeat: no-repeat;
 	height: 70px;
 }
@@ -775,7 +775,7 @@ option.alert-block {
 /* Widgetised sidebar
 ---------------------------------------------------------- */
 .wpb_vc_widget_sidebar .wpb_element_wrapper {
-	background-image: url(vc/elements_icons/layout_sidebar.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/layout_sidebar.png);
 	background-repeat: no-repeat;
 	height: 70px;
 }
@@ -857,11 +857,11 @@ option.alert-block {
 	line-height: inherit;
 	cursor: pointer;
 
-	background: url(vc/plus.png) left 3px no-repeat;
+	background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/plus.png) left 3px no-repeat;
 	padding-left: 20px;
 }
 #visual_composer_content.wpb_element_wrapper .toggle_title_active {
-	background-image: url(vc/minus.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/minus.png);
 }
 
 
@@ -874,7 +874,7 @@ option.alert-block {
 /* Video widget
 ---------------------------------------------------------- */
 .wpb_vc_video .wpb_element_wrapper {
-	background-image: url(vc/elements_icons/video.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/video.png);
 	background-repeat: no-repeat;
 
 	height: 70px;
@@ -916,44 +916,44 @@ i.icon {
 		display: none;
 	}
 
-.wpb_address_book i.icon, option.wpb_address_book { background:url(images/icons/address-book.png) no-repeat right center; }
-.wpb_alarm_clock i.icon, option.wpb_alarm_clock { background:url(images/icons/alarm-clock.png) no-repeat right center; }
-.wpb_anchor i.icon, option.wpb_anchor { background:url(images/icons/anchor.png) no-repeat right center; }
-.wpb_application_image i.icon, option.wpb_application_image { background:url(images/icons/application-image.png) no-repeat right center; }
-.wpb_arrow i.icon, option.wpb_arrow { background:url(images/icons/arrow.png) no-repeat right center; }
-.wpb_asterisk i.icon, option.wpb_asterisk { background:url(images/icons/asterisk.png) no-repeat right center; }
-.wpb_hammer i.icon, option.wpb_hammer { background:url(images/icons/auction-hammer.png) no-repeat right center; }
-.wpb_balloon i.icon, option.wpb_balloon { background:url(images/icons/balloon.png) no-repeat right center; }
-.wpb_balloon_buzz i.icon, option.wpb_balloon_buzz { background:url(images/icons/balloon-buzz.png) no-repeat right center; }
-.wpb_balloon_facebook i.icon, option.wpb_balloon_facebook { background:url(images/icons/balloon-facebook.png) no-repeat right center; }
-.wpb_balloon_twitter i.icon, option.wpb_balloon_twitter { background:url(images/icons/balloon-twitter.png) no-repeat right center; }
-.wpb_battery i.icon, option.wpb_battery { background:url(images/icons/battery-full.png) no-repeat right center; }
-.wpb_binocular i.icon, option.wpb_binocular { background:url(images/icons/binocular.png) no-repeat right center; }
-.wpb_document_excel i.icon, option.wpb_document_excel { background:url(images/icons/blue-document-excel.png) no-repeat right center; }
-.wpb_document_image i.icon, option.wpb_document_image { background:url(images/icons/blue-document-image.png) no-repeat right center; }
-.wpb_document_music i.icon, option.wpb_document_music { background:url(images/icons/blue-document-music.png) no-repeat right center; }
-.wpb_document_office i.icon, option.wpb_document_office { background:url(images/icons/blue-document-office.png) no-repeat right center; }
-.wpb_document_pdf i.icon, option.wpb_document_pdf { background:url(images/icons/blue-document-pdf.png) no-repeat right center; }
-.wpb_document_powerpoint i.icon, option.wpb_document_powerpoint { background:url(images/icons/blue-document-powerpoint.png) no-repeat right center; }
-.wpb_document_word i.icon, option.wpb_document_word { background:url(images/icons/blue-document-word.png) no-repeat right center; }
-.wpb_bookmark i.icon, option.wpb_bookmark { background:url(images/icons/bookmark.png) no-repeat right center; }
-.wpb_camcorder i.icon, option.wpb_camcorder { background:url(images/icons/camcorder.png) no-repeat right center; }
-.wpb_camera i.icon, option.wpb_camera { background:url(images/icons/camera.png) no-repeat right center; }
-.wpb_chart i.icon, option.wpb_chart { background:url(images/icons/chart.png) no-repeat right center; }
-.wpb_chart_pie i.icon, option.wpb_chart_pie { background:url(images/icons/chart-pie.png) no-repeat right center; }
-.wpb_clock i.icon, option.wpb_clock { background:url(images/icons/clock.png) no-repeat right center; }
-.wpb_play i.icon, option.wpb_play { background:url(images/icons/control.png) no-repeat right center; }
-.wpb_fire i.icon, option.wpb_fire { background:url(images/icons/fire.png) no-repeat right center; }
-.wpb_heart i.icon, option.wpb_heart { background:url(images/icons/heart.png) no-repeat right center; }
-.wpb_mail i.icon, option.wpb_mail { background:url(images/icons/mail.png) no-repeat right center; }
-.wpb_shield i.icon, option.wpb_shield { background:url(images/icons/plus-shield.png) no-repeat right center; }
-.wpb_video i.icon, option.wpb_video { background:url(images/icons/video.png) no-repeat right center; }
+.wpb_address_book i.icon, option.wpb_address_book { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/address-book.png) no-repeat right center; }
+.wpb_alarm_clock i.icon, option.wpb_alarm_clock { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/alarm-clock.png) no-repeat right center; }
+.wpb_anchor i.icon, option.wpb_anchor { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/anchor.png) no-repeat right center; }
+.wpb_application_image i.icon, option.wpb_application_image { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/application-image.png) no-repeat right center; }
+.wpb_arrow i.icon, option.wpb_arrow { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/arrow.png) no-repeat right center; }
+.wpb_asterisk i.icon, option.wpb_asterisk { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/asterisk.png) no-repeat right center; }
+.wpb_hammer i.icon, option.wpb_hammer { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/auction-hammer.png) no-repeat right center; }
+.wpb_balloon i.icon, option.wpb_balloon { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/balloon.png) no-repeat right center; }
+.wpb_balloon_buzz i.icon, option.wpb_balloon_buzz { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/balloon-buzz.png) no-repeat right center; }
+.wpb_balloon_facebook i.icon, option.wpb_balloon_facebook { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/balloon-facebook.png) no-repeat right center; }
+.wpb_balloon_twitter i.icon, option.wpb_balloon_twitter { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/balloon-twitter.png) no-repeat right center; }
+.wpb_battery i.icon, option.wpb_battery { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/battery-full.png) no-repeat right center; }
+.wpb_binocular i.icon, option.wpb_binocular { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/binocular.png) no-repeat right center; }
+.wpb_document_excel i.icon, option.wpb_document_excel { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/blue-document-excel.png) no-repeat right center; }
+.wpb_document_image i.icon, option.wpb_document_image { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/blue-document-image.png) no-repeat right center; }
+.wpb_document_music i.icon, option.wpb_document_music { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/blue-document-music.png) no-repeat right center; }
+.wpb_document_office i.icon, option.wpb_document_office { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/blue-document-office.png) no-repeat right center; }
+.wpb_document_pdf i.icon, option.wpb_document_pdf { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/blue-document-pdf.png) no-repeat right center; }
+.wpb_document_powerpoint i.icon, option.wpb_document_powerpoint { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/blue-document-powerpoint.png) no-repeat right center; }
+.wpb_document_word i.icon, option.wpb_document_word { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/blue-document-word.png) no-repeat right center; }
+.wpb_bookmark i.icon, option.wpb_bookmark { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/bookmark.png) no-repeat right center; }
+.wpb_camcorder i.icon, option.wpb_camcorder { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/camcorder.png) no-repeat right center; }
+.wpb_camera i.icon, option.wpb_camera { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/camera.png) no-repeat right center; }
+.wpb_chart i.icon, option.wpb_chart { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/chart.png) no-repeat right center; }
+.wpb_chart_pie i.icon, option.wpb_chart_pie { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/chart-pie.png) no-repeat right center; }
+.wpb_clock i.icon, option.wpb_clock { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/clock.png) no-repeat right center; }
+.wpb_play i.icon, option.wpb_play { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/control.png) no-repeat right center; }
+.wpb_fire i.icon, option.wpb_fire { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/fire.png) no-repeat right center; }
+.wpb_heart i.icon, option.wpb_heart { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/heart.png) no-repeat right center; }
+.wpb_mail i.icon, option.wpb_mail { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/mail.png) no-repeat right center; }
+.wpb_shield i.icon, option.wpb_shield { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/plus-shield.png) no-repeat right center; }
+.wpb_video i.icon, option.wpb_video { background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/video.png) no-repeat right center; }
 
 
 /* Google Maps widget
 ---------------------------------------------------------- */
 .wpb_vc_gmaps .wpb_element_wrapper {
-	background-image: url(vc/elements_icons/map.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/map.png);
 	background-repeat: no-repeat;
 
 	height: 70px;
@@ -1014,7 +1014,7 @@ i.icon {
 	display: inline-block;
 	height: 80px;
 	width: 80px;
-	background: #F5F5F5 url("vc/add.png") no-repeat center center;
+	background: #F5F5F5 url("httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/add.png") no-repeat center center;
 	border: 1px solid #DFDFDF;
 	font-size: 1px;
 	color: #DFDFDF;
@@ -1107,23 +1107,23 @@ i.icon {
 	font-family: inherit;
 	font-weight: normal;
 
-	/*background: url("ui-custom-theme/images/ui-bg_highlight-soft_100_f6f6f6_1x100.png") repeat-x scroll 50% 50% #F6F6F6;*/
+	/*background: url("httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/ui-custom-theme/images/ui-bg_highlight-soft_100_f6f6f6_1x100.png") repeat-x scroll 50% 50% #F6F6F6;*/
 	background: transparent;
 	background: #FFFFFF;
 	border: 1px solid #DDDDDD;
 }
 /*#poststuff h3.ui-state-active {
-	background: url("ui-custom-theme/images/ui-bg_glass_65_ffffff_1x400.png") repeat-x scroll 50% 50% #FFFFFF;
+	background: url("httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/ui-custom-theme/images/ui-bg_glass_65_ffffff_1x400.png") repeat-x scroll 50% 50% #FFFFFF;
 }*/
 /*#poststuff h3.ui-state-hover {
-	background: #eaf2fa url(ui-custom-theme/images/ui-bg_highlight-soft_25_eaf2fa_1x100.png) 50% 50% repeat-x;
+	background: #eaf2fa url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/ui-custom-theme/images/ui-bg_highlight-soft_25_eaf2fa_1x100.png) 50% 50% repeat-x;
 }*/
 
 /*.ui-state-default .ui-icon,
 .ui-state-active .ui-icon*/
 .wpb_accordion_holder .ui-accordion-header span.ui-icon,
 #wpb-js-composer-settings .ui-accordion-header span.ui-icon {
-	background-image: url(vc/plus.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/plus.png);
 	background-position: 0 0;
 	position: absolute;
 	left: 7px;
@@ -1132,7 +1132,7 @@ i.icon {
 }
 .wpb_accordion_holder .ui-state-active span.ui-icon,
 #wpb-js-composer-settings .ui-state-active span.ui-icon {
-  background-image: url(vc/minus.png);
+  background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/minus.png);
 }
 
 
@@ -1303,7 +1303,7 @@ i.icon {
         display: block;
         width: 50px;
         height: 30px;
-        background: transparent url(images/bullet_hint.png) left top no-repeat;
+        background: transparent url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/bullet_hint.png) left top no-repeat;
         text-shadow: #333333 0 -1px 0;
         float: left;
         clear: left;
@@ -1311,7 +1311,7 @@ i.icon {
         vertical-align: middle;
     }
     #wpb-empty-blocks .edit-picture {
-        background: transparent url(images/edit_hint.png) center center no-repeat;
+        background: transparent url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/edit_hint.png) center center no-repeat;
         width: 127px;
         height: 108px;
         margin-left: 60px;
@@ -1337,14 +1337,14 @@ i.icon {
 
 
 .open-dropdown-popular-layouts i {
-    background: url(vc/layout.png) no-repeat center center;
+    background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/layout.png) no-repeat center center;
     width: 16px;
     width: 16px;
     margin-right: 2px; position: relative; top: -2px;
 }
 
 .open-dropdown-content-element i {
-    background: url(vc/brick.png) no-repeat center center;
+    background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/brick.png) no-repeat center center;
     width: 16px;
     width: 16px;
     margin-right: 2px;
@@ -1353,7 +1353,7 @@ i.icon {
 }
 
 .add-text-block-to-content i {
-    background: url(images/icons/elements/layer-shape-text.png) no-repeat center center;
+    background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/elements/layer-shape-text.png) no-repeat center center;
     width: 16px;
     width: 16px;
     margin-right: 2px;
@@ -1363,7 +1363,7 @@ i.icon {
 
 
 .wpb_vc_single_image .wpb_element_wrapper {
-    /* background-image: url(vc/gallery.png);
+    /* background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/gallery.png);
     background-position: center center;
     background-repeat: no-repeat;
     */
@@ -1386,7 +1386,7 @@ i.icon {
 }
 
 [class^="icon-wpb"], [class*=" icon-wpb"] {
-    background-image: url(images/icons/elements/sprite.png);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/images/icons/elements/sprite.png);
     background-position: center center;
     width: 16px; height: 16px;
     margin-top: -1px;
@@ -1411,7 +1411,7 @@ i.icon {
 .icon-wpb-ui-tab-content{ background-position: 0 -306px;}
 .icon-wpb-tweetme {background-position: 0 -342px;}
 
-.alert .messagebox_text{padding-left:24px;}.alert .messagebox_text{background:url(vc/alert.png) no-repeat left center;}.alert-info .messagebox_text{background:url(vc/info.png) no-repeat left center;}.alert-success .messagebox_text{background:url(vc/tick.png) no-repeat left center;}.alert-error .messagebox_text{background:url(vc/exclamation.png) no-repeat left center;}
+.alert .messagebox_text{padding-left:24px;}.alert .messagebox_text{background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/alert.png) no-repeat left center;}.alert-info .messagebox_text{background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/info.png) no-repeat left center;}.alert-success .messagebox_text{background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/tick.png) no-repeat left center;}.alert-error .messagebox_text{background:url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/exclamation.png) no-repeat left center;}
 
 
 .wpb_vc_single_image_widget .column_edit_trigger,
@@ -1759,7 +1759,7 @@ ul.wpb-content-layouts-container, .wpb_bootstrap_modals .wpb-content-layouts-con
     top: -2px;
 }
 .add-element-to-layout i.icon, .wpb_add_new_element i.icon {
-    background: transparent url(vc/add.png) center center no-repeat;
+    background: transparent url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/add.png) center center no-repeat;
     margin-left: 0;
 }
 
@@ -1985,7 +1985,7 @@ div.wpb_content_element:first-of-type { /* margin-top: 0; border-top: 1px solid 
 
 
 .wpb_vc_row {
-  /*background: #F7F7F7 url(vc/rowbg.png);*/
+  /*background: #F7F7F7 url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/rowbg.png);*/
   margin-top: 15px;
   /*padding-top: 10px;*/
   /*box-shadow: 0 1px 3px rgba(34, 25, 25, 0.2);*/
@@ -2005,7 +2005,7 @@ div.wpb_content_element:first-of-type { /* margin-top: 0; border-top: 1px solid 
 
   .wpb_row_container > .wpb_vc_column {
     margin-bottom: 0;
-    background: #F5F5F5 url(vc/rowbg.png);
+    background: #F5F5F5 url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/rowbg.png);
     /*box-shadow: 0 0 3px rgba(34, 25, 25, 0.15);*/
     border: 1px solid #ECECEC;
     height: 100%;
@@ -2058,7 +2058,7 @@ div.row_inner {
 
 /** row icons */
 .set_columns {
-  background: url(vc/content_blocks/14_14_14_14.gif) no-repeat center center;
+  background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/14_14_14_14.gif) no-repeat center center;
   height: 16px;
   width: 23px;
   font-size: 1px;
@@ -2109,7 +2109,7 @@ div.row_inner {
 	padding: 7px 10px 7px 50px;
 }
 .wpb_vc_column_text .wpb_element_wrapper {
-    background-image: url(vc/elements_icons/text.png);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/text.png);
 }
 
 .wpb_element_wrapper .textarea_raw_html {
@@ -2121,11 +2121,11 @@ div.row_inner {
   font-family: "Courier New";
 }
 .wpb_vc_raw_html .wpb_element_wrapper {
-	background-image: url(vc/elements_icons/html.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/html.png);
 }
 
 .wpb_vc_raw_js .wpb_element_wrapper {
-	background-image: url(vc/elements_icons/js.png);
+	background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/elements_icons/js.png);
 }
 
 #visual_composer_content .wpb_vc_cta_button h2 {
@@ -2138,7 +2138,7 @@ div.row_inner {
 
 .wpb_vc_row > .controls .column_edit,
 .wpb_vc_row_inner > .controls .column_edit {
-    background-image: url(vc/edit_grey.png);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/edit_grey.png);
     width: 16px;
     height: 16px;
     /*opacity: 0.5;*/
@@ -2149,7 +2149,7 @@ div.row_inner {
 
 .wpb_vc_row > .controls .column_clone,
 .wpb_vc_row_inner > .controls .column_clone {
-    background-image: url(vc/row_clone.png);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/row_clone.png);
     width: 16px;
     height: 16px;
     position: absolute;
@@ -2158,7 +2158,7 @@ div.row_inner {
 }
 .wpb_vc_row > .controls .column_delete,
 .wpb_vc_row_inner > .controls .column_delete {
-    background-image: url(vc/row_remove.png);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/row_remove.png);
     width: 16px;
     height: 16px;
     position: absolute;
@@ -2180,39 +2180,39 @@ div.controls.row > span {
 }
 
 .set_columns {
-    background-image: url(vc/content_blocks/1.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/1.gif);
 }
 
 .set_columns.l_12_12 {
-    background-image: url(vc/content_blocks/12_12.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/12_12.gif);
 }
 
 .set_columns.l_23_13 {
-    background-image: url(vc/content_blocks/23_13.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/23_13.gif);
 }
 .set_columns.l_13_13_13 {
-    background-image: url(vc/content_blocks/13_13_13.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/13_13_13.gif);
 }
 .set_columns.l_13_23 {
-    background-image: url(vc/content_blocks/13_23.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/13_23.gif);
 }
 .set_columns.l_14_14_14_14 {
-    background-image: url(vc/content_blocks/14_14_14_14.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/14_14_14_14.gif);
 }
 .set_columns.l_23_13 {
-    background-image: url(vc/content_blocks/23_13.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/23_13.gif);
 }
 .set_columns.l_14_34 {
-    background-image: url(vc/content_blocks/14_34.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/14_34.gif);
 }
 .set_columns.l_14_12_14 {
-    background-image: url(vc/content_blocks/14_12_14.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/14_12_14.gif);
 }
 .set_columns.l_56_16 {
-    background-image: url(vc/content_blocks/56_16.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/56_16.gif);
 }
 .set_columns.l_16_16_16_16_16_16 {
-    background-image: url(vc/content_blocks/16_16_16_16_16_16.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/content_blocks/16_16_16_16_16_16.gif);
 }
 
 
@@ -2220,7 +2220,7 @@ div.controls.row > span {
     display: inline-block;
     width: 16px;
     height: 16px;
-    background: url("vc/drag_handler.gif") center center no-repeat;
+    background: url("httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/drag_handler.gif") center center no-repeat;
     cursor: move;
     margin: 0;
     float: left;
@@ -2285,7 +2285,7 @@ div.controls.row > span {
 .wpb_vc_column .wpb_vc_separator > .wpb_element_wrapper,
 .wpb_vc_column .wpb_vc_text_separator > .wpb_element_wrapper {
     border: 0;
-    background-image: url(vc/separator.gif);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/separator.gif);
     background-repeat: repeat-x;
     background-position: center center;
 }
@@ -2340,7 +2340,7 @@ div.wpb_element_wrapper.alert {
 }
 .wpb_content_element .ui-tabs .ui-tabs-nav li.add_tab_block a.add_tab {
     display: block;
-    background: url(vc/add.png) no-repeat 10px center;
+    background: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/add.png) no-repeat 10px center;
     height: 28px;
     width: auto;
     padding: 0;
@@ -2371,22 +2371,22 @@ div.wpb_element_wrapper.alert {
 .wpb_vc_column_inner > .controls .column_add,
 .wpb_vc_tab > .controls .column_add,
 .wpb_vc_accordion_tab > .controls .column_add {
-    background-image: url(vc/add_grey.png);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/add_grey.png);
 }
 .wpb_vc_column_inner > .controls .column_edit,
 .wpb_vc_tab > .controls .column_edit,
 .wpb_vc_accordion_tab > .controls .column_edit {
-    background-image: url(vc/edit_grey.png);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/edit_grey.png);
 }
 .wpb_vc_column_inner > .controls .column_clone,
 .wpb_vc_tab > .controls .column_clone,
 .wpb_vc_accordion_tab > .controls .column_clone {
-    background-image: url(vc/clone_grey.png);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/clone_grey.png);
 }
 .wpb_vc_column_inner > .controls .column_delete,
 .wpb_vc_tab > .controls .column_delete,
 .wpb_vc_accordion_tab > .controls .column_delete {
-    background-image: url(vc/remove_grey.png);
+    background-image: url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/remove_grey.png);
 }
 
 
@@ -2486,7 +2486,7 @@ div.bottom-controls {
 }
 
 .wpb_add_new_row i.icon {
-    background: transparent url(vc/row_prepend.png) center center no-repeat;
+    background: transparent url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/row_prepend.png) center center no-repeat;
 }
 
 div.textarea_html ul {
@@ -2505,7 +2505,7 @@ div.textarea_html blockquote {
     padding-bottom: 21px;
 }*/
 .empty_column .wpb_column_container {
-    background: transparent url('vc/add_bg.png') no-repeat center center;
+    background: transparent url('httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/add_bg.png') no-repeat center center;
     min-height: 60px;
     cursor: pointer;
     box-sizing: content-box;
@@ -2529,7 +2529,7 @@ div.textarea_html blockquote {
     position: static;
 }
 .wpb_vc_accordion > .wpb_element_wrapper > .tab_controls .add_tab {
-    background: #FFFFFF url(vc/add.png) no-repeat 5px center;
+    background: #FFFFFF url(httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/inc/extensions/custom-meta-boxes/css/vc/add.png) no-repeat 5px center;
     color: #999999;
     border: 1px solid #DFDFDF;
     padding: 7px 10px 5px 25px;

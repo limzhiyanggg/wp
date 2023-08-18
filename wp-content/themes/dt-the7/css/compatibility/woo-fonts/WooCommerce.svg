@@ -5,9 +5,9 @@
 <json>
 {
 	"fontFamily": "WooCommerce",
-	"fontURL": "http://woothemes.com",
+	"fontURL": "http://woothemes.com/",
 	"designer": "James Koster",
-	"designerURL": "http://jameskoster.co.uk",
+	"designerURL": "http://jameskoster.co.uk/",
 	"license": "SIL OFL",
 	"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
 	"version": "Version 1.0.2",

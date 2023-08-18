@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'fontello';
-  src: url('../font/fontello.eot?2136226');
-  src: url('../font/fontello.eot?2136226#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff?2136226') format('woff'),
-       url('../font/fontello.ttf?2136226') format('truetype');
+  src: url('httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/fonts/fontello/font/fontello.eot?2136226');
+  src: url('httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/fonts/fontello/font/fontello.eot?2136226#iefix') format('embedded-opentype'),
+       url('httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/fonts/fontello/font/fontello.woff?2136226') format('woff'),
+       url('httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/fonts/fontello/font/fontello.ttf?2136226') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -13,7 +13,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
-    src: url('../font/fontello.svg?2136226#fontello') format('svg');
+    src: url('httplimzhiyanggg.github.io/wp//wp-content/themes/dt-the7/fonts/fontello/font/fontello.svg?2136226#fontello') format('svg');
   }
 }
 */
